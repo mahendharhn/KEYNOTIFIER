@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "611006301178",
+    "project_id": "keynotifier-aade4",
+    "storage_bucket": "keynotifier-aade4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:611006301178:android:b9fb16139cedbf484a9a43",
+        "android_client_info": {
+          "package_name": "com.dimp.keynotifier"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "611006301178-ehgnln3irtdh4oi3qc0avr46sdr7qn2l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4WTIbZYf8GSwwZ8U-05v5KcApRVE9AHQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "611006301178-ehgnln3irtdh4oi3qc0avr46sdr7qn2l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
